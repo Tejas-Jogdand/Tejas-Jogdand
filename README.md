@@ -1,22 +1,26 @@
 # 👋 Hey, I'm Tejas Jogdand  
 
 💻 **Software Engineer | MERN Stack Developer | Cloud Learner | AI Power Generalist**  
-
-I enjoy building practical solutions that bridge **ideas → products**. Currently, I’m working at **LTIMindtree** on migrations, automation scripting, RPA, and ServiceNow App Engine.  
-Outside of work, I love experimenting with **web apps, AI tools, and creative projects**—whether it’s coding, gaming, or sharing knowledge with the community.  
-
----
-
-## 🚀 About Me  
-- 🏆 Hackathon Winner — Built and deployed a **Luggage Room App**.  
-- 🎓 MSc & BSc in Computer Science — **Top ranked** with CGPA 9.07 & 9.53.  
-- 📚 Currently learning **Cloud (Azure + AWS)** and revisiting **MERN development**.  
-- ✨ Passionate about: **clean code, teamwork, problem-solving, and sharing knowledge**.  
-
----
-
-## 🛠️ Tech Stack  
-<p align="left"> 
+<div align="center">
+<table style="border: none">
+  <tr>
+    <td width="66%" valign="top">
+      <p>
+        I enjoy building practical solutions that bridge <b>ideas → products</b>. Currently, I’m working at <b>LTIMindtree</b>.  
+        Outside of work, I love experimenting with <b>web apps, AI tools, and creative projects</b>—whether it’s coding or sharing knowledge with the community.  
+      </p>
+      <ul>
+        <li>🏆 Hackathon Winner — Built and deployed a <b>Luggage Room App</b>.</li>
+        <li>🎓 MSc & BSc in Computer Science — <b>Top ranked</b> with CGPA 9.07 & 9.53.</li>
+        <li>✨ Passionate about: <b>clean code, teamwork, problem-solving, and sharing knowledge</b>.</li>
+      </ul>
+    </td>
+    <td width="34%" valign="middle" align="center"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-jogdand&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Tejas's GitHub Top Languages" /> 
+    </td>
+  </tr>
+</table>
+  <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
@@ -32,27 +36,12 @@ Outside of work, I love experimenting with **web apps, AI tools, and creative pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
- 
----
-
-## 📌 Highlighted Projects  
-- **Luggage Room App** → ServiceNow App Store featured 🛄  
-- **Mini Shopping App (MERN)** → Learning project with routing & state mgmt 🛒  
-- **Automation Scripts** → Internal productivity boosts ⚡  
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejas-jogdand&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Tejas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejas-jogdand&theme=vue-dark&hide_border=true)
-![Tejas's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-jogdand&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) 
+![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejas-jogdand&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
-
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/tejas-jogdand" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
